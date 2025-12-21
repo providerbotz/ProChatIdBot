@@ -40,9 +40,9 @@
     "MENU": "🏘 القائمة",
     "INFO_MENU": "🏘 مساعدة القائمة",
     "ABOUT": "ℹ️ حول",
-    "INFO_ABOUT": "‏ℹ️ **تفاصيل حول البوت**\n\n> 👨‍💻 **منشئ البوت:** @yehudalev.\n\nاللغة: [Python](https://www.python.org/).\nالمكتبة: [pyrotgfork](https://telegramplayground.github.io/pyrogram/).\n\n**🖤 البوت مفتوح المصدر على GitHub**\n> https://github.com/yehuda-lev/Get_Chat_ID_Bot\n\n💖 **ادعم البوت:** هل وجدت البوت مفيدًا؟ ساعد في استمراره من خلال الأمر /donate.\n\n📢 **تابعنا:** احصل على التحديثات والنصائح والأخبار بالانضمام إلى @GetChatID_Updates!",
+    "INFO_ABOUT": "‏ℹ️ **تفاصيل حول البوت**\n\n> 👨‍💻 **منشئ البوت:** @providerbhaskar.\n\nاللغة: [Python](https://www.python.org/).\nالمكتبة: [pyrotgfork](https://telegramplayground.github.io/pyrogram/).\n\n**🖤 البوت مفتوح المصدر على GitHub**\n> https://github.com/\n\n💖 **ادعم البوت:** هل وجدت البوت مفيدًا؟ ساعد في استمراره من خلال الأمر /donate.\n\n📢 **تابعنا:** احصل على التحديثات والنصائح والأخبار بالانضمام إلى @ProviderBotz !",
     "BUTTON_DEV": "إرسال رسالة👨‍💻",
-    "LINK_DEV": "https://t.me/yehudalev",
+    "LINK_DEV": "https://t.me/providerbhaskar",
     "CHOSE_CHAT_TYPE": "اختر نوع الدردشة",
     "BUTTON_ADD_BOT_TO_GROUP": "أضف البوت إلى المجموعة",
     "ADD_BOT_TO_GROUP": "**إضافة البوت إلى المجموعة**\n\nانقر على الزر لإضافة البوت إلى المجموعة للحصول على معرفات الأعضاء في المجموعة",
@@ -64,7 +64,7 @@
 
     "BOT_NAME": "🪪 احصل على معرف الدردشة | Pro Chat Id Bot",
     "BOT_ABOUT": "🪪 احصل بسرعة على معرف أي دردشة!\n\n📣 تحديثات البوت - @ProviderBotz",
-    "BOT_DESCRIPTION": "🪪 احصل بسرعة على معرف أي مجموعة أو قناة أو مستخدم أو بوت.\n\n✨ شارك الدردشات بسهولة، قم بالبحث في السطر، أعد توجيه الرسائل واعمل مع المجموعات والبوتات التجارية.\n\n💖 البوت مفتوح المصدر - https://github.com/yehuda-lev/Get_Chat_ID_Bot\n\n📣 تحديثات البوت - @GetChatID_Updates",
+    "BOT_DESCRIPTION": "🪪 احصل بسرعة على معرف أي مجموعة أو قناة أو مستخدم أو بوت.\n\n✨ شارك الدردشات بسهولة، قم بالبحث في السطر، أعد توجيه الرسائل واعمل مع المجموعات والبوتات التجارية.\n\n💖 البوت مفتوح المصدر - https://github.com/\n\n📣 تحديثات البوت - @GetChatID_Updates",
 
     "START_COMMAND": "ابدأ البوت | Start the bot ✅",
     "LANG_COMMAND": "غيّر اللغة | Change the language 🇺🇸/🇸🇦",
